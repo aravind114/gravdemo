@@ -1,30 +1,30 @@
-# Gateway Skeleton for Grav
+# Landio Skeleton for Grav
 
-![Gateway](assets/readme_1.png)
+![Landio](assets/readme_1.png)
 
-Gateway by [RescueThemes](https://rescuethemes.com/) incorporates elegant style with user friendly customizer options making it perfectly suited for a variety of Grav users. With rock solid development and flexible integration, the Gateway theme is sure to be a favorite for first time Grav users and experienced developers alike.
+Landio is a responsive HTML template, built on top of [Bootstrap 4](http://v4-alpha.getbootstrap.com/) and based on the [Land.io Sketch design](http://tympanus.net/codrops/2015/09/16/freebie-land-io-ui-kit-landing-page-design-sketch/) by [Peter Finlan](http://peterfinlan.com/). This template and the UI kit were coded by [Taty Grassini](http://tatygrassini.github.io/).
 
-# Features
+# Built on:
 
-* Navigation menu included
-* Clean Layout
-* Blog Layout
-* Minimalistic
-* Social Sharing
-* Browser Compatibility
-* SimpleSearch support
-* Feeds
-* Feaured Posts
-* RelatedPosts plugin support
-* Archives plugin support
-* JSComments plugin support
-* Comments and Forms plugin support
+* Bootstrap 4
+* Icomoon
+* Power of GRAV
+
+# Features:
+
+* Admin plugin support with customizable user area
+* VideoJS
+* Testimonials layout
+* HTML5 and CSS3
+* Fully Responsive
+* Attractive and modern design
+* Various templates for presenting your content
 
 ## Basic Setup for a new Grav site
 
-The simplest way to install Gateway theme for Grav is to download and install the Gateway Skeleton package:
+The simplest way to install Landio theme for Grav is to download and install the Landio Skeleton package:
 
-1. [Download Gateway Skeleton](http://getgrav.org/downloads/skeletons#extras)
+1. [Download Landio Skeleton](http://getgrav.org/downloads/skeletons#extras)
 2. Simply unzip the package into your web root folder.
 3. Point your browser at the folder, job done!
 
@@ -34,10 +34,35 @@ The simplest way to install Gateway theme for Grav is to download and install th
 
 ## Existing Grav site
 
-It is possible to install just the theme, but page content will need to reference the [Gateway theme](https://github.com/getgrav/grav-theme-gateway)'s supported templates.  It is strongly advised to at least install the Gateway Skeleton package to see the theme's capabilities in action.
+It is possible to install just the theme, but page content will need to reference the [Landio theme](https://github.com/getgrav/grav-theme-landio)'s supported templates.  It is strongly advised to at least install the Landio Skeleton package to see the theme's capabilities in action.
 
 To install  **just** the theme:
 
 ```
-$ bin/gpm install gateway
+$ bin/gpm install landio
 ```
+
+# Usage
+
+To customize Land.io footer, header, topbar and social counts open [example configuration file](https://github.com/getgrav/grav-skeleton-landio-site/blob/develop/config/site.yaml) from Land.io skeleton. You can customize each section to fit your needs.
+
+# Credits
+
+*   [Bootstrap](http://getbootstrap.com/)
+*   [Icomoon](https://icomoon.io/)
+*   [UI Faces](http://uifaces.com/)
+*   [Quotes on Design](http://quotesondesign.com/)
+*   [Unsplash](https://unsplash.com/)
+*   [Video JS](http://videojs.com/)
+*   [Vimeo jQuery API](https://github.com/jrue/Vimeo-jQuery-API)
+*   [Chart JS](http://www.chartjs.org/)
+*   [Waypoints](https://github.com/imakewebthings/waypoints)
+*   [Animate.css](https://daneden.github.io/animate.css/)
+
+### Misc
+
+Follow Pete: [Twitter](https://twitter.com/peterfinlan), [Dribbble](http://www.dribbble.com/peterfinlan)
+
+Follow Taty: [Twitter](https://twitter.com/tatygrassini), [GitHub](https://github.com/tatygrassini)
+
+Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/pages/Codrops/159107397912), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/)
